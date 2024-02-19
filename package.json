@@ -1,5 +1,5 @@
 {
-  "name": "netlify-plugin-discord",
+  "name": "netlify-plugin-discord-2",
   "version": "0.0.2",
   "description": "Netlify Build plugin - Discord webhook notifications",
   "main": "lib/index.js",
